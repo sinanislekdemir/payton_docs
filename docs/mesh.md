@@ -24,7 +24,7 @@ The order of vertices is important. There are two directions to define a triangl
 
 ![Clockwise](/cw.png)
 
-Payton uses counter-clockwise to calculate the normals. If your triangle follows a clock-wise rotation, then it won't be responding to light properly. 
+Payton uses clockwise rotation to calculate the normals. If your triangle follows a counter-clockwise rotation, then it won't be responding to light properly. 
 
 ![Basic Mesh](/mesh_1.png)
 

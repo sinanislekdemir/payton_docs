@@ -170,10 +170,6 @@ The example `05_children.py` can give more clarity on that:
 
 See the [materials](/docs/materials) section for details.
 
-## static
-
-Static is an optimization parameter. It is set to `True` by default. If an object is defined as `Static` then it's virtual buffer objects are deleted from the graphics memory after building the vertex array object and also the object gets reported to the graphics card as a static object. This way, the graphics card can internally optimize itself.
-
 ### visible
 
 Default: `True`. Defines the visibility of an object. 

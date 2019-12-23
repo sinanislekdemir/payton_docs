@@ -16,7 +16,6 @@ draft: false
   * [Working with Objects](/docs/objects)
     * [Materials](/docs/materials)
     * [Mesh](/docs/mesh)
-    * [Custom Objects](/docs/custom)
     * [Quake MD2](/docs/md2)
     * [MatrixPlane](/docs/matrixplane)
     * [Exporting Objects and Scene](/docs/export)
